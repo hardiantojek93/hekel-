@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<a href="https://github.com/hardiantojek93"><img title="Author" src="https://img.shields.io/badge/HAFIZH-FREE%20SELF%20BOT-green)"></a>
+<a href="https://github.com/hardiantojek93"><img title="Author" src="https://img.shields.io/badge/ANTO-FREE%20SELF%20BOT-reed)"></a>
 </p>
 <p align="center">
 </p>
