@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<a href="https://github.com/HAFizh-15"><img title="Author" src="https://img.shields.io/badge/HAFIZH-FREE%20SELF%20BOT-green)"></a>
+<a href="https://github.com/hardiantojek93"><img title="Author" src="https://img.shields.io/badge/HAFIZH-FREE%20SELF%20BOT-green)"></a>
 </p>
 <p align="center">
 </p>
@@ -127,12 +127,13 @@ Ket: Aktif 24 jam
 * [`MHANKBARBAR`](https://github.com/XTT0G4N5/T027BOT)
 * [`1NSOMNIA`](https://github.com/1NS0MNIA)
 * [`Vin781`](https://github.com/vinz781)
+* [`Hafish`](https://github.com/HAFizh-15/TERMOS-WABOT) 
 
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHAFizh-15%2FTERMOS-WABOT.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHAFizh-15%2FTERMOS-WABOT?ref=badge_large)
 
-## REPOSITORY BY HAFIZH
+## REPOSITORY BY HARDIANTO
 
 
 alasan menggunakan banyak api: 
