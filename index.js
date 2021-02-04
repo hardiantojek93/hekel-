@@ -162,7 +162,7 @@ hafizh.on('group-participants-update', async (anu) => {
 				}
 			}
 			const botNumber = hafizh.user.jid
-			const ownerNumber = ["6285959375675@s.whatsapp.net"] // ganti nomer lu
+			const ownerNumber = ["6287811078485@s.whatsapp.net"] // ganti nomer lu
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? tod.participant : tod.key.remoteJid
 			const groupMetadata = isGroup ? await hafizh.groupMetadata(from) : ''
@@ -843,7 +843,7 @@ hafizh.on('group-participants-update', async (anu) => {
             case 'owner':
             case 'creator':
                   hafizh.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: tod})
-       hafizh.sendMessage(from, 'wa.me/+6287775452636',MessageType.text, { quoted: tod} )
+       hafizh.sendMessage(from, 'wa.me/+6287811078485',MessageType.text, { quoted: tod} )
            break    
            case 'demote':
 					if (tod.message.extendedTextMessage === undefined || tod.message.extendedTextMessage === null) return reply('𝗧𝗮𝗴 𝘁𝗮𝗿𝗴𝗲𝘁 𝘆𝗮𝗻𝗴 𝗶𝗻𝗴𝗶𝗻 𝗱𝗶 𝘁𝗲𝗻𝗱𝗮𝗻𝗴!')
